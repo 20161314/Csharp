@@ -1,0 +1,14 @@
+/Users/hezekai/Documents/code/C#/ConsoleApp/bin/Debug/net9.0/ConsoleApp
+/Users/hezekai/Documents/code/C#/ConsoleApp/bin/Debug/net9.0/ConsoleApp.deps.json
+/Users/hezekai/Documents/code/C#/ConsoleApp/bin/Debug/net9.0/ConsoleApp.runtimeconfig.json
+/Users/hezekai/Documents/code/C#/ConsoleApp/bin/Debug/net9.0/ConsoleApp.dll
+/Users/hezekai/Documents/code/C#/ConsoleApp/bin/Debug/net9.0/ConsoleApp.pdb
+/Users/hezekai/Documents/code/C#/ConsoleApp/obj/Debug/net9.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hezekai/Documents/code/C#/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/hezekai/Documents/code/C#/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfo.cs
+/Users/hezekai/Documents/code/C#/ConsoleApp/obj/Debug/net9.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/hezekai/Documents/code/C#/ConsoleApp/obj/Debug/net9.0/ConsoleApp.dll
+/Users/hezekai/Documents/code/C#/ConsoleApp/obj/Debug/net9.0/refint/ConsoleApp.dll
+/Users/hezekai/Documents/code/C#/ConsoleApp/obj/Debug/net9.0/ConsoleApp.pdb
+/Users/hezekai/Documents/code/C#/ConsoleApp/obj/Debug/net9.0/ConsoleApp.genruntimeconfig.cache
+/Users/hezekai/Documents/code/C#/ConsoleApp/obj/Debug/net9.0/ref/ConsoleApp.dll
